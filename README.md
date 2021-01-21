@@ -1,1 +1,1 @@
-# Made with Create React App
+# Coin Flipper Project
